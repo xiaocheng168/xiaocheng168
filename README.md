@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinaZcc)](https://github.com/xiaocheng168)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocheng168&show_icons=true&theme=radical)](https://github.com/xiaocheng168)
